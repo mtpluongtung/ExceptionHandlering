@@ -1,0 +1,12 @@
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\bin\Debug\net7.0\Common.deps.json
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\bin\Debug\net7.0\Common.dll
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\bin\Debug\net7.0\Common.pdb
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\obj\Debug\net7.0\Common.dll
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\obj\Debug\net7.0\refint\Common.dll
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\obj\Debug\net7.0\Common.pdb
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Common\obj\Debug\net7.0\ref\Common.dll

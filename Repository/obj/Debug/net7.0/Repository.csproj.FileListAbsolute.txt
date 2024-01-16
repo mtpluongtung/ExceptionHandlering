@@ -1,0 +1,12 @@
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\bin\Debug\net7.0\Repository.deps.json
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\bin\Debug\net7.0\Repository.dll
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\bin\Debug\net7.0\Repository.pdb
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\obj\Debug\net7.0\Repository.dll
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\obj\Debug\net7.0\refint\Repository.dll
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\obj\Debug\net7.0\Repository.pdb
+E:\Hoc Tap\.Net API\ExceptionHandling\ExceptionHandling\Repository\obj\Debug\net7.0\ref\Repository.dll
